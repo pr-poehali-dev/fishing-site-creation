@@ -80,8 +80,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Fish" size={32} className="text-primary-foreground" />
-              <h1 className="text-2xl font-bold">РыбацкийПортал
-НИ ХВОСТА - НИ ЧЕШУИ</h1>
+              <h1 className="text-2xl font-bold">Ни хвоста - ни чешуи</h1>
             </div>
             <div className="hidden md:flex gap-6">
               {['Главная', 'Снасти', 'Водоемы', 'Советы', 'Отчеты', 'Контакты'].map((item) => (
